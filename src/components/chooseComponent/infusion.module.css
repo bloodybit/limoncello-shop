@@ -1,0 +1,16 @@
+
+.custom-select {
+  position: relative;
+  height: 50px;
+    /* width: 20%; */
+    border: solid;
+    font-size: 1.2em;
+}
+
+.iconCheck {
+    width: 20px;
+    position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+}

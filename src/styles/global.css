@@ -1,0 +1,38 @@
+html {
+    font-family: "courier";
+    background-color: #ffffd1;
+}
+
+.green-text { 
+    color: #65ad73;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.split-view {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.screen {
+    width: 70%;
+    margin: auto;
+}
+.note {
+    font-size: 0.7em;
+}
+.borded {
+    border: 3px solid black;
+    padding-left: 20px;
+}
+
+.to-the-bottom {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height: 30px;
+    background-color: brown;
+    width: 100%;
+}

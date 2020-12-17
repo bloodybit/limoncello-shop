@@ -1,0 +1,15 @@
+.iconCheck {
+    width: 20px;
+    position: absolute;
+   right: 0;
+   top: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.iconText {
+    margin-left: 20px;
+}
+
+.checkContainer {
+    display: flex;
+}
